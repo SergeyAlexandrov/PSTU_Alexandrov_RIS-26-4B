@@ -6,4 +6,4 @@
 
 
 
-<img src="images/Osnova.webp" alt="Ava" width="200" />
+<img src="Images/Osnova.webp" alt="Ava" width="200" />
