@@ -4,5 +4,7 @@ Visual Studio Code
 *.pdb
 *.ilk
 *.lnk
+.vscode
 ~$*
 
+.vscode/
