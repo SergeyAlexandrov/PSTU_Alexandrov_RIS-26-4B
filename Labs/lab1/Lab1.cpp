@@ -1,7 +1,6 @@
 
 #include <iostream>
 #include <cmath>
-#include <windows.h>
 using namespace std;
 
 // float Задание №1
@@ -9,7 +8,7 @@ void task1() {
     float a = 1000, b = 0.0001f;
     float deyst1 = a + b;
     float deyst2 = pow(deyst1,2);;
-    float a2 = pow(a,2);
+    float a2 = pow(a,2);п
     float deyst3 = (a2+2*a*b);
     float deyst4 = deyst2-deyst3;
     float b2 = pow(b,2);
@@ -31,6 +30,7 @@ void task2() {
     cout << ' ' << endl;
     cout << "result double is = " << result << endl;
     cout << ' ' << endl;
+
 }
 
 int main() 

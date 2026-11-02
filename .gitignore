@@ -1,1 +1,8 @@
-.vscode
+Visual Studio Code
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.lnk
+~$*
+
