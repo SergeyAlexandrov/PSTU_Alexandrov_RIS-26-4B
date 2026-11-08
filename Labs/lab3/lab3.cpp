@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    setlocale(LC_ALL, "65001");
+    setlocale(LC_ALL, ".65001");
 
     const double a = 0.1, b = 1.0, eps = 0.0001;
     const int k = 10, n = 10;
