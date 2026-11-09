@@ -9,7 +9,7 @@ using namespace std;
 int getWord(char row[], int pos, char word[])
 {
     int j = 0;
-    while (row[pos] != '\0' && row[pos] != '0') // "\0" как конец строки '0' как разделитель слов
+    while (row[pos] != '\0' && row[pos] != '0') // "\0" как конец строки3 '0' как разделитель слов
     {
         word[j] = row[pos];
         j++;
